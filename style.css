@@ -1,0 +1,106 @@
+body h1,h2,h3,h4,h5,h6,p,a,span,{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.header-section img{
+    width: 100%;
+}
+
+
+.m-r{
+    margin-right: 10px;
+    color: rgb(61, 207, 211);
+    font-size: 22px;
+}
+
+.banner-section{
+    height: 480px;
+    background: rgba(0,0,0);
+    color: #fff;
+    padding: 50px 100px;
+    
+    
+}
+.banner-section p{
+   width: 50%;
+   display: inline-block;
+   text-align: justify;
+} 
+.banner-section img {
+   
+    width: 50%;
+    margin-left: 250px;
+}
+.h-1{
+ color: rgb(61, 207, 211);
+ font-size: 25px;
+ font-weight: 500;
+}
+
+
+.h-2{
+    color: rgb(61, 207, 211);
+    font-size: 30px;
+    font-weight: 400;
+}
+.h-3{
+    font-size: 40px;
+    font-weight: 500;
+}
+.about{
+    padding: 50px;
+    background: #dff9fb;
+}
+
+.about img{
+    width: 300px;
+    background: #ddd;
+    display: inline-block;
+    margin-left: 100px;
+    
+}
+.about p{
+    display: inline-block;
+    width: 700px;
+    padding: 50px;
+    margin-left: 80px; 
+    font-weight: 500;
+}
+
+.banner-section a{
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 40px;
+    background: rgb(61, 207, 211);
+    font-size: 20px;
+    font-weight: 500;
+    display: inline-block;
+}
+.footer{
+    background: rgb(22, 22, 22);
+   
+}
+.footer p{
+    color: #fff;
+    text-align: center;
+    margin-top: -10px;
+    padding-bottom: 20px;
+    font-size: 22px;
+}
+
+.footer span {
+    color: #23bf1a;
+    font-weight: 700;
+}
+
+.footer-icon{
+    color: #f5f3f7;
+    width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+.footer-icon i {
+    padding: 22px 19px;
+}
